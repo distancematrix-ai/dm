@@ -1,0 +1,5 @@
+origin;destination;mode;traffic_model;departure_time
+28.43164,77.07254;28.47243,77.05457;driving;best_guess;now
+8 Hawley St, Levenshulme, Manchester M19 2QS, United Kingdom;24 Wheler St, Openshaw, Manchester M11 1DF, United Kingdom;driving;best_guess;now
+Paris;Milan;driving;best_guess;now
+M19 2QS, United Kingdom;M11 1DF, United Kingdom;driving;best_guess;now
